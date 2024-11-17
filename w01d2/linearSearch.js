@@ -7,4 +7,6 @@ function linear_search(haystack, needle) {
     return false;
 }
 
+asd;
+
 module.exports = linear_search;
